@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+button{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    height: 10%;
+    width: 20%;
+    border:  solid black;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: 900;
+    background-color: transparent;
+}
+
+div{
+    position: absolute;
+    top: 55%;
+    left: 40%;
+    height: 10%;
+    width: 20%;
+    border:  solid black;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: 900;
+}
